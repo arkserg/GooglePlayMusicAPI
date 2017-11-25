@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.3</TargetFramework>
+    <PackageId>GPMClientDNSt</PackageId>
+    <Authors>GPMClientDNSt</Authors>
+    <Company>GPMClientDNSt</Company>
+    <Product>GPMClientDNSt</Product>
+    <Description>GPMClientDNSt</Description>
   </PropertyGroup>
 
   <ItemGroup>
